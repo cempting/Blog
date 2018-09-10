@@ -1,2 +1,2 @@
 # Blog
-Thoughts on everything
+Thoughts about everything.
