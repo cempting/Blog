@@ -1,4 +1,4 @@
-# Blog
+# Sandbox blog
 This repository may serve as a place to reflect on private and professional topics, small and big issues, backward looking and growth.
 
 
